@@ -1,0 +1,32 @@
+body {
+    background-color: #878f99;
+    font-family: 'DotGothic16', sans-serif;
+    color: violet;
+}
+
+.tittle {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.vaz-calculator {
+    width: 550px;
+    text-align: center;
+    margin: 50px auto;
+    background-color: #6b5b95;
+    padding: 60px 30px;
+    border: 3px solid #a2b9bc;
+    font-size: 19px;
+}
+
+.input-items {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.operation-block button {
+    margin: 20px 15px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
